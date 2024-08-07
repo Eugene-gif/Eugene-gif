@@ -28,11 +28,11 @@
 <h3>:man_technologist: Обо мне:</h3> <br>
 Меня зовут Евгений, я фронтенд разработчик.
 
-- В данный момент я наслаждаюсь тем, что могу много учиться и практиковаться, создавая разные крутые проекты :slightly_smiling_face:
+- В данный момент работаю фронтенд-разработчиком на Vue3 :slightly_smiling_face:
 
-- В свободное время я люблю верстать, кодить на JavaScript и изучать документацию по веб-разработке:relaxed:
+- Люблю разработку и программирование и всё что с этим связано :relaxed:
 
-- В мои ближайшие планы входит изучение Nuxt :technologist:
+- В мои ближайшие планы входит изучение Nuxt3 :technologist:
 
 - Желаю всем счастливого нового кода :smile:
 
@@ -53,6 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
 </div>
 
 ---
