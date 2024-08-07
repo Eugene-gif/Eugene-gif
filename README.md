@@ -3,16 +3,13 @@
   <img src="https://user-images.githubusercontent.com/77696871/177855602-2f1488aa-7da9-4459-9446-9b0f795524c3.png" width="400"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://codepen.io/your-work">
+  <a href="https://codepen.io/your-work" target="_blank">
     <img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
   </a>
-  <a href="https://t.me/Evg_14">
+  <a href="https://t.me/Evg_14" target="_blank">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://join.skype.com/invite/lL0Tr1ceiSqf">
-    <img src="https://img.shields.io/badge/skype-black?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
-  </a>
-  <a href="mailto:zuevevgen93@mail.ru">
+  <a href="mailto:zuevevgen93@mail.ru" target="_blank">
     <img src="https://img.shields.io/badge/email-black?style=for-the-badge&logo=email&logoColor=black" alt="Email Badge"/>
   </a>
 </div>
