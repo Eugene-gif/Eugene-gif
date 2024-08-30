@@ -14,7 +14,8 @@
   </a>
 </div>
 <h1 align="center">
-  Приветствую!:upside_down_face:
+  Приветствую!
+  :upside_down_face:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   :slightly_smiling_face:
 </h1>
@@ -56,6 +57,9 @@
 
 ---
 <h3>:writing_hand:Статистика:</h3>
+<div>
+  <img src="https://www.codewars.com/users/Eugene-gif/badges/large" title"Codewars" alt="codewars" width="400" height="40" />
+</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eugene-gif&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=ru&stroke=DD674C&fire=DD674C&ring=5561DD&dates=5561DD&sideLabels=DD674C&currStreakLabel=DD674C&currStreakNum=5561DD&sideNums=5561DD)](https://git.io/streak-stats)
 
