@@ -66,7 +66,8 @@
 
   <div>
     <h4>GitHub streak: </h4>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eugene-gif&theme=github-  dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=ru&stroke=DD674C&fire=DD674C&ring=5561DD&dates=5561DD&sideLabels=DD674C&currStreakLabel=DD674C&currStreakNum=5561DD&sideNums=5561DD)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Eugene-gif"/></a>
+<!--     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eugene-gif&theme=github-  dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=ru&stroke=DD674C&fire=DD674C&ring=5561DD&dates=5561DD&sideLabels=DD674C&currStreakLabel=DD674C&currStreakNum=5561DD&sideNums=5561DD)](https://git.io/streak-stats) -->
   </div>
 </div>
 
