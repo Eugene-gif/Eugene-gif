@@ -6,10 +6,10 @@
   <a href="https://codepen.io/your-work" target="_blank">
     <img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
   </a>
-  <a href="https://t.me/Evg_14" target="_blank">
+  <a href="https://t.me/eug14_dev" target="_blank">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:zuevevgen93@mail.ru" target="_blank">
+  <a href="mailto:eug.dev1413@mail.ru" target="_blank">
     <img src="https://img.shields.io/badge/email-black?style=for-the-badge&logo=email&logoColor=black" alt="Email Badge"/>
   </a>
 </div>
